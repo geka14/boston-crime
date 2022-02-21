@@ -22,6 +22,8 @@ Data kejahatan di kota Boston selama tahun 2015-2019 merupakan suatu dataset yan
 16. Long
 17. Location
 
+## Data Preprocessing
+
 Sebelum melakukan proses analisis terhadap data kejahatan di kota Boston selama 5 tahun terakhir, data mentah yang didapatkan sebelumnya perlu untuk dibersihkan terlebih dahulu melalui proses data preprocessing. Berikut merupakan langkah-langkah data preprocessing terhadap dataset Boston crime:
 
 1. Memasukkan dataset Boston crime pada IDE R dengan query read.csv(), lalu melihat summary dari data tersebut
